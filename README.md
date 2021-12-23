@@ -12,3 +12,10 @@ CRC-16-IBM
 <br>
 
 <img width="600" alt="view" src="https://user-images.githubusercontent.com/65262583/145899671-b85c007e-86f8-42fd-94cb-5db50ab81ad1.png">
+
+<br>
+<br>
+<br>
+
+以下のページで解説しています。
+[C#でCRCを計算する](https://yamaccu.github.io/tils/20211214-Csharp-CRC)
