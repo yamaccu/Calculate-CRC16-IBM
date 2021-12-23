@@ -17,5 +17,5 @@ CRC-16-IBM
 <br>
 <br>
 
-以下のページで解説しています。
+以下のページで解説しています。  
 [C#でCRCを計算する](https://yamaccu.github.io/tils/20211214-Csharp-CRC)
